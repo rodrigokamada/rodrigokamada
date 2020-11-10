@@ -16,10 +16,14 @@ I am currently working with [Node.js](https://nodejs.org/) ([JavaScript](https:/
 [![Java](https://shields.braskam.com/v1/shields?name=java&format=circle&size=medium)](https://www.java.com/)
 [![Angular](https://shields.braskam.com/v1/shields?name=angular&format=circle&size=medium)](https://angular.io/)
 [![Ionic](https://shields.braskam.com/v1/shields?name=ionic&format=circle&size=medium)](https://ionicframework.com/)
+[![Bootstrap](https://shields.braskam.com/v1/shields?name=bootstrap&format=circle&size=medium)](https://getbootstrap.com/)
 [![MongoDB](https://shields.braskam.com/v1/shields?name=mongodb&format=circle&size=medium)](https://www.mongodb.com/)
 [![MySQL](https://shields.braskam.com/v1/shields?name=mysql&format=circle&size=medium)](https://www.mysql.com/)
 [![PostgreSQL](https://shields.braskam.com/v1/shields?name=postgresql&format=circle&size=medium)](https://www.postgresql.org/)
+[![Redis](https://shields.braskam.com/v1/shields?name=redis&format=circle&size=medium)](https://redis.io/)
+[![Kafka](https://shields.braskam.com/v1/shields?name=kafka&format=circle&size=medium)](https://kafka.apache.org/)
 [![Docker](https://shields.braskam.com/v1/shields?name=docker&format=circle&size=medium)](https://www.docker.com/)
+[![Kubernetes](https://shields.braskam.com/v1/shields?name=kubernetes&format=circle&size=medium)](https://kubernetes.io/)
 
 
 
