@@ -10,7 +10,10 @@ I am currently working with [Node.js](https://nodejs.org/) ([JavaScript](https:/
 
 [![Git](https://shields.braskam.com/v1/shields?name=git&format=circle&size=medium)](https://git-scm.com/)
 [![Jenkins](https://shields.braskam.com/v1/shields?name=jenkins&format=circle&size=medium)](https://www.jenkins.io/)
+[![JavaScript](https://shields.braskam.com/v1/shields?name=javascript&format=circle&size=medium)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![TypeScript](https://shields.braskam.com/v1/shields?name=typescript&format=circle&size=medium)](https://www.typescriptlang.org/)
 [![Node.js](https://shields.braskam.com/v1/shields?name=nodejs&format=circle&size=medium)](https://nodejs.org/)
+[![Angular](https://shields.braskam.com/v1/shields?name=angular&format=circle&size=medium)](https://angular.io/)
 [![MongoDB](https://shields.braskam.com/v1/shields?name=mongodb&format=circle&size=medium)](https://www.mongodb.com/)
 [![Docker](https://shields.braskam.com/v1/shields?name=docker&format=circle&size=medium)](https://www.docker.com/)
 
