@@ -9,6 +9,10 @@ I am currently working with [Node.js](https://nodejs.org/) ([JavaScript](https:/
 ### Skills
 
 [![Git](https://shields.braskam.com/v1/shields?name=git&format=circle&size=medium)](https://git-scm.com/)
+[![Jenkins](https://shields.braskam.com/v1/shields?name=jenkins&format=circle&size=medium)](https://www.jenkins.io/)
+[![Node.js](https://shields.braskam.com/v1/shields?name=nodejs&format=circle&size=medium)](https://nodejs.org/)
+[![MongoDB](https://shields.braskam.com/v1/shields?name=mongodb&format=circle&size=medium)](https://www.mongodb.com/)
+[![Docker](https://shields.braskam.com/v1/shields?name=docker&format=circle&size=medium)](https://www.docker.com/)
 
 
 
