@@ -17,6 +17,8 @@ I am currently working with [Node.js](https://nodejs.org/) ([JavaScript](https:/
 [![TypeScript](https://shields.braskam.com/v1/shields?name=typescript&format=circle&size=medium)](https://www.typescriptlang.org/)
 [![Node.js](https://shields.braskam.com/v1/shields?name=nodejs&format=circle&size=medium)](https://nodejs.org/)
 [![Java](https://shields.braskam.com/v1/shields?name=java&format=circle&size=medium)](https://www.java.com/)
+[![HTML5](https://shields.braskam.com/v1/shields?name=html5&format=circle&size=medium)](https://developer.mozilla.org/docs/Web/HTML/HTML5)
+[![CSS3](https://shields.braskam.com/v1/shields?name=css3&format=circle&size=medium)](https://developer.mozilla.org/docs/Web/CSS)
 [![Angular](https://shields.braskam.com/v1/shields?name=angular&format=circle&size=medium)](https://angular.io/)
 [![Ionic](https://shields.braskam.com/v1/shields?name=ionic&format=circle&size=medium)](https://ionicframework.com/)
 [![Bootstrap](https://shields.braskam.com/v1/shields?name=bootstrap&format=circle&size=medium)](https://getbootstrap.com/)
