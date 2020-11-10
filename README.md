@@ -21,7 +21,7 @@ I am currently working with [Node.js](https://nodejs.org/) ([JavaScript](https:/
 [![MySQL](https://shields.braskam.com/v1/shields?name=mysql&format=circle&size=medium)](https://www.mysql.com/)
 [![PostgreSQL](https://shields.braskam.com/v1/shields?name=postgresql&format=circle&size=medium)](https://www.postgresql.org/)
 [![Redis](https://shields.braskam.com/v1/shields?name=redis&format=circle&size=medium)](https://redis.io/)
-[![Kafka](https://shields.braskam.com/v1/shields?name=kafka&format=circle&size=medium)](https://kafka.apache.org/)
+[![Apache Kafka](https://shields.braskam.com/v1/shields?name=apachekafka&format=circle&size=medium)](https://kafka.apache.org/)
 [![Docker](https://shields.braskam.com/v1/shields?name=docker&format=circle&size=medium)](https://www.docker.com/)
 [![Kubernetes](https://shields.braskam.com/v1/shields?name=kubernetes&format=circle&size=medium)](https://kubernetes.io/)
 
