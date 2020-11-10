@@ -8,7 +8,10 @@ I am currently working with [Node.js](https://nodejs.org/) ([JavaScript](https:/
 
 ### Skills
 
+[![Linux](https://shields.braskam.com/v1/shields?name=linux&format=circle&size=medium)](https://kubernetes.io/)
 [![Git](https://shields.braskam.com/v1/shields?name=git&format=circle&size=medium)](https://git-scm.com/)
+[![GitHub](https://shields.braskam.com/v1/shields?name=github&format=circle&size=medium)](https://github.com/)
+[![Bitbucket](https://shields.braskam.com/v1/shields?name=bitbucket&format=circle&size=medium)](https://bitbucket.org/)
 [![Jenkins](https://shields.braskam.com/v1/shields?name=jenkins&format=circle&size=medium)](https://www.jenkins.io/)
 [![JavaScript](https://shields.braskam.com/v1/shields?name=javascript&format=circle&size=medium)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![TypeScript](https://shields.braskam.com/v1/shields?name=typescript&format=circle&size=medium)](https://www.typescriptlang.org/)
@@ -24,6 +27,7 @@ I am currently working with [Node.js](https://nodejs.org/) ([JavaScript](https:/
 [![Apache Kafka](https://shields.braskam.com/v1/shields?name=apachekafka&format=circle&size=medium)](https://kafka.apache.org/)
 [![Docker](https://shields.braskam.com/v1/shields?name=docker&format=circle&size=medium)](https://www.docker.com/)
 [![Kubernetes](https://shields.braskam.com/v1/shields?name=kubernetes&format=circle&size=medium)](https://kubernetes.io/)
+[![Visual Studio Code](https://shields.braskam.com/v1/shields?name=visualstudiocode&format=circle&size=medium)](https://code.visualstudio.com/)
 
 
 
