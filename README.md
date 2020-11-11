@@ -9,6 +9,7 @@ I am currently working with [Node.js](https://nodejs.org/) ([JavaScript](https:/
 ### Skills
 
 [![Linux](https://shields.braskam.com/v1/shields?name=linux&format=circle&size=medium)](https://kubernetes.io/)
+[![Shell Script](https://shields.braskam.com/v1/shields?name=shellscript&format=circle&size=medium)](https://wikipedia.org/wiki/Shell_script)
 [![Git](https://shields.braskam.com/v1/shields?name=git&format=circle&size=medium)](https://git-scm.com/)
 [![GitHub](https://shields.braskam.com/v1/shields?name=github&format=circle&size=medium)](https://github.com/)
 [![Bitbucket](https://shields.braskam.com/v1/shields?name=bitbucket&format=circle&size=medium)](https://bitbucket.org/)
