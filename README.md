@@ -43,6 +43,7 @@ I am currently working with [Node.js](https://nodejs.org/) ([JavaScript](https:/
 [![GitHub](https://shields.braskam.com/v1/shields?name=github&format=circle&size=medium)](https://github.com/rodrigokamada)
 [![GitLab](https://shields.braskam.com/v1/shields?name=gitlab&format=circle&size=medium)](https://gitlab.com/rodrigokamada)
 [![npm](https://shields.braskam.com/v1/shields?name=npm&format=circle&size=medium)](https://www.npmjs.com/~rodrigokamada)
+[![StackBlitz](https://shields.braskam.com/v1/shields?name=stackblitz&format=circle&size=medium)](https://stackblitz.com/@rodrigokamada)
 [![HackerRank](https://shields.braskam.com/v1/shields?name=hackerrank&format=circle&size=medium)](https://www.hackerrank.com/rodrigokamada)
 [![Stack Overflow](https://shields.braskam.com/v1/shields?name=stackoverflow&format=circle&size=medium)](https://stackoverflow.com/users/10433716/rodrigo-kamada)
 [![Medium](https://shields.braskam.com/v1/shields?name=medium&format=circle&size=medium)](https://medium.com/@rodrigokamada)
