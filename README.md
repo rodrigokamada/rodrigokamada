@@ -46,7 +46,7 @@ I am currently working with [Node.js](https://nodejs.org/) ([JavaScript](https:/
 [![StackBlitz](https://shields.braskam.com/v1/shields?name=stackblitz&format=circle&size=medium)](https://stackblitz.com/@rodrigokamada)
 [![HackerRank](https://shields.braskam.com/v1/shields?name=hackerrank&format=circle&size=medium)](https://www.hackerrank.com/rodrigokamada)
 [![Stack Overflow](https://shields.braskam.com/v1/shields?name=stackoverflow&format=circle&size=medium)](https://stackoverflow.com/users/10433716/rodrigo-kamada)
-[![Medium](https://shields.braskam.com/v1/shields?name=medium&format=circle&size=medium)](https://medium.com/@rodrigokamada)
+[![Medium](https://shields.braskam.com/v1/shields?name=medium&format=circle&size=medium)](https://rodrigokamada.medium.com)
 [![DEV Community](https://shields.braskam.com/v1/shields?name=dev&format=circle&size=medium)](https://dev.to/rodrigokamada)
 [![Dribbble](https://shields.braskam.com/v1/shields?name=dribbble&format=circle&size=medium)](https://dribbble.com/rodrigokamada)
 [![Twitch](https://shields.braskam.com/v1/shields?name=twitch&format=circle&size=medium)](https://twitch.tv/rodrigokamada)
