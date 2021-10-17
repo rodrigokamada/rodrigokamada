@@ -56,9 +56,9 @@
 [![Stack Overflow](https://shields.braskam.com/v1/shields?name=stackoverflow&format=circle&size=medium)](https://stackoverflow.com/users/10433716/rodrigo-kamada)
 [![Medium](https://shields.braskam.com/v1/shields?name=medium&format=circle&size=medium)](https://rodrigokamada.medium.com)
 [![DEV Community](https://shields.braskam.com/v1/shields?name=dev&format=circle&size=medium)](https://dev.to/rodrigokamada)
-[![Hacker Noon](https://shields.braskam.com/v1/shields?name=dev&format=circle&size=hackernoon)](https://hackernoon.com/u/rodrigokamada)
-[![Hashnode](https://shields.braskam.com/v1/shields?name=dev&format=circle&size=hashnode)](https://rodrigokamada.hashnode.dev/)
-[![Substack](https://shields.braskam.com/v1/shields?name=dev&format=circle&size=substack)](https://rodrigokamada.substack.com/)
+[![Hacker Noon](https://shields.braskam.com/v1/shields?name=hackernoon&format=circle&size=medium)](https://hackernoon.com/u/rodrigokamada)
+[![Hashnode](https://shields.braskam.com/v1/shields?name=hashnode&format=circle&size=medium)](https://rodrigokamada.hashnode.dev/)
+[![Substack](https://shields.braskam.com/v1/shields?name=substack&format=circle&size=medium)](https://rodrigokamada.substack.com/)
 [![Dribbble](https://shields.braskam.com/v1/shields?name=dribbble&format=circle&size=medium)](https://dribbble.com/rodrigokamada)
 [![Twitch](https://shields.braskam.com/v1/shields?name=twitch&format=circle&size=medium)](https://twitch.tv/rodrigokamada)
 [![Instagram](https://shields.braskam.com/v1/shields?name=instagram&format=circle&size=medium)](https://www.instagram.com/rodrigokamada)
@@ -85,4 +85,4 @@
 
 * [Hosting an Angular application on GitHub Pages using GitHub Actions](https://hackernoon.com/a-step-by-step-guide-to-hosting-angular-applications-on-github-pages-using-github-actions) ([in portuguese](https://rodrigo.kamada.com.br/blog/hospedando-uma-aplicacao-angular-no-github-pages-usando-o-github-actions))
 
-* [Adding the log component to an Angular application](https://rodrigokamada.medium.com/adding-the-log-component-to-an-angular-application-9facb1799ac5) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-log-em-uma-aplicacao-angular)
+* [Adding the log component to an Angular application](https://rodrigokamada.medium.com/adding-the-log-component-to-an-angular-application-9facb1799ac5) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-log-em-uma-aplicacao-angular))
