@@ -1,12 +1,20 @@
-## Hello everybody, I am Rodrigo Kamada! <img src="https://github.com/rodrigokamada/rodrigokamada/blob/master/assets/images/hand_rock.gif" width="30px">
+## Hello everybody, I am Rodrigo Kamada! <img src="https://res.cloudinary.com/rodrigokamada/image/upload/v1634480368/Icons/hand_hello_flzzd0.gif" width="30px">
 
-I am a software developer and I am living in São Paulo, Brazil. I graduated from Computer Sciences in 2015.
+👨‍💻 Software developer
 
-I am currently working with [Node.js](https://nodejs.org/) ([JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)/[TypeScript](https://www.typescriptlang.org/)), [Java](https://www.java.com/), [Angular](https://angular.io/), [Bootstrap](https://getbootstrap.com/), [MongoDB](https://www.mongodb.com/), [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [Redis](https://redis.io/), [Kafka](https://kafka.apache.org/), [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/).
+👨‍🎓 Graduated from Computer Sciences in 2015.
+
+☕ Coffee and 🍺 beer lover.
+
+🏠 Based in São Paulo, Brazil.
+
+💻 Currently working with [Node.js](https://nodejs.org/) ([JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)/[TypeScript](https://www.typescriptlang.org/)), [Java](https://www.java.com/), [Angular](https://angular.io/), [Bootstrap](https://getbootstrap.com/), [Ionic](https://ionicframework.com/), [MongoDB](https://www.mongodb.com/), [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [Redis](https://redis.io/), [Kafka](https://kafka.apache.org/), [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/).
+
+✍️ I am creating content to share my knowledge and help people on their technology journey. 
 
 
 
-### Skills
+### 🙌 Skills
 
 [![Linux](https://shields.braskam.com/v1/shields?name=linux&format=circle&size=medium)](https://kubernetes.io/)
 [![Shell Script](https://shields.braskam.com/v1/shields?name=shellscript&format=circle&size=medium)](https://wikipedia.org/wiki/Shell_script)
@@ -34,7 +42,7 @@ I am currently working with [Node.js](https://nodejs.org/) ([JavaScript](https:/
 
 
 
-### Social media
+### 🤝 Social media
 
 [![Website](https://shields.braskam.com/v1/shields?name=website&format=circle&size=medium)](https://rodrigo.kamada.com.br)
 [![Email](https://shields.braskam.com/v1/shields?name=email&format=circle&size=medium)](mailto:rodrigo@kamada.com.br)
@@ -48,6 +56,9 @@ I am currently working with [Node.js](https://nodejs.org/) ([JavaScript](https:/
 [![Stack Overflow](https://shields.braskam.com/v1/shields?name=stackoverflow&format=circle&size=medium)](https://stackoverflow.com/users/10433716/rodrigo-kamada)
 [![Medium](https://shields.braskam.com/v1/shields?name=medium&format=circle&size=medium)](https://rodrigokamada.medium.com)
 [![DEV Community](https://shields.braskam.com/v1/shields?name=dev&format=circle&size=medium)](https://dev.to/rodrigokamada)
+[![Hacker Noon](https://shields.braskam.com/v1/shields?name=dev&format=circle&size=hackernoon)](https://hackernoon.com/u/rodrigokamada)
+[![Hashnode](https://shields.braskam.com/v1/shields?name=dev&format=circle&size=hashnode)](https://rodrigokamada.hashnode.dev/)
+[![Substack](https://shields.braskam.com/v1/shields?name=dev&format=circle&size=substack)](https://rodrigokamada.substack.com/)
 [![Dribbble](https://shields.braskam.com/v1/shields?name=dribbble&format=circle&size=medium)](https://dribbble.com/rodrigokamada)
 [![Twitch](https://shields.braskam.com/v1/shields?name=twitch&format=circle&size=medium)](https://twitch.tv/rodrigokamada)
 [![Instagram](https://shields.braskam.com/v1/shields?name=instagram&format=circle&size=medium)](https://www.instagram.com/rodrigokamada)
@@ -58,6 +69,20 @@ I am currently working with [Node.js](https://nodejs.org/) ([JavaScript](https:/
 
 
 
-### Sponsor
+### 🤗 Sponsor
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P86DNKR)
+
+
+
+### 📝 Latest Posts
+
+* [Adding the Google reCAPTCHA v3 to an Angular application](https://rodrigokamada.hashnode.dev/adding-the-google-recaptcha-v3-to-an-angular-application) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-google-recaptcha-v3-em-uma-aplicacao-angular))
+
+* [Adding the loading component (spinner) to an Angular application](https://rodrigokamada.substack.com/p/adding-the-loading-component-spinner) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-carregamento-spinner-em-uma-aplicacao-angular))
+
+* [Adding charts using the Highcharts library to an Angular application](https://dev.to/rodrigokamada/adding-charts-using-the-highcharts-library-to-an-angular-application-2bbl) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-graficos-usando-a-biblioteca-highcharts-em-uma-aplicacao-angular))
+
+* [Hosting an Angular application on GitHub Pages using GitHub Actions](https://hackernoon.com/a-step-by-step-guide-to-hosting-angular-applications-on-github-pages-using-github-actions) ([in portuguese](https://rodrigo.kamada.com.br/blog/hospedando-uma-aplicacao-angular-no-github-pages-usando-o-github-actions))
+
+* [Adding the log component to an Angular application](https://rodrigokamada.medium.com/adding-the-log-component-to-an-angular-application-9facb1799ac5) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-log-em-uma-aplicacao-angular)
