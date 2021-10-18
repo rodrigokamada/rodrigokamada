@@ -62,7 +62,7 @@
 [![Dribbble](https://shields.braskam.com/v1/shields?name=dribbble&format=circle&size=medium)](https://dribbble.com/rodrigokamada)
 [![Twitch](https://shields.braskam.com/v1/shields?name=twitch&format=circle&size=medium)](https://twitch.tv/rodrigokamada)
 [![Instagram](https://shields.braskam.com/v1/shields?name=instagram&format=circle&size=medium)](https://www.instagram.com/rodrigokamada)
-[![Facebook](https://shields.braskam.com/v1/shields?name=facebook&format=circle&size=medium)](https://fb.me/rodrigokamada)
+[![Facebook](https://shields.braskam.com/v1/shields?name=facebook&format=circle&size=medium)](https://fb.me/rodrigokpd)
 [![Discord](https://shields.braskam.com/v1/shields?name=discord&format=circle&size=medium)](https://discordapp.com/users/497956332897566721)
 [![Slack](https://shields.braskam.com/v1/shields?name=slack&format=circle&size=medium)](https://acmeco.slack.com/team/UKEUM0NS0)
 [![Telegram](https://shields.braskam.com/v1/shields?name=telegram&format=circle&size=medium)](https://t.me/rodrigokamada)
