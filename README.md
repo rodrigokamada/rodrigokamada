@@ -1,16 +1,14 @@
 ## Hello everybody, I am Rodrigo Kamada! <img src="https://res.cloudinary.com/rodrigokamada/image/upload/v1634480368/Icons/hand_hello_flzzd0.gif" width="30px">
 
-👨‍💻 Software developer
+👨‍💻 I am software developer with experience in [Node.js](https://nodejs.org/) ([JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)/[TypeScript](https://www.typescriptlang.org/)), [Java](https://www.java.com/), [Angular](https://angular.io/), [Bootstrap](https://getbootstrap.com/), [Ionic](https://ionicframework.com/), [MongoDB](https://www.mongodb.com/), [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [Redis](https://redis.io/), [Kafka](https://kafka.apache.org/), [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/).
+
+✍️ I am creating content to share my knowledge and help people on their technology journey. 
 
 👨‍🎓 Graduated from Computer Sciences in 2015.
 
 ☕ Coffee and 🍺 beer lover.
 
 🏠 Based in São Paulo, Brazil.
-
-💻 Currently working with [Node.js](https://nodejs.org/) ([JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)/[TypeScript](https://www.typescriptlang.org/)), [Java](https://www.java.com/), [Angular](https://angular.io/), [Bootstrap](https://getbootstrap.com/), [Ionic](https://ionicframework.com/), [MongoDB](https://www.mongodb.com/), [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [Redis](https://redis.io/), [Kafka](https://kafka.apache.org/), [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/).
-
-✍️ I am creating content to share my knowledge and help people on their technology journey. 
 
 
 
@@ -76,6 +74,8 @@
 
 
 ### 📝 Latest Posts
+
+* [Authentication using the Auth0 to an Angular application](https://rodrigokamada.medium.com/authentication-using-the-auth0-to-an-angular-application-e9f0c3939bf2) ([in portuguese](https://rodrigo.kamada.com.br/blog/autenticacao-usando-o-auth0-em-uma-aplicacao-angular))
 
 * [Adding the Google reCAPTCHA v3 to an Angular application](https://rodrigokamada.hashnode.dev/adding-the-google-recaptcha-v3-to-an-angular-application) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-google-recaptcha-v3-em-uma-aplicacao-angular))
 
