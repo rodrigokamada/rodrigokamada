@@ -4,7 +4,7 @@
 
 ✍️ I am creating content to share my knowledge and help people on their technology journey. 
 
-👨‍🎓 Graduated from Computer Sciences in 2015.
+👨‍🎓 Graduated from Computer Sciences in 2005.
 
 ☕ Coffee and 🍺 beer lover.
 
