@@ -58,6 +58,7 @@
 [![Hashnode](https://shields.braskam.com/v1/shields?name=hashnode&format=circle&size=medium)](https://rodrigokamada.hashnode.dev/)
 [![Substack](https://shields.braskam.com/v1/shields?name=substack&format=circle&size=medium)](https://rodrigokamada.substack.com/)
 [![Polywork](https://shields.braskam.com/v1/shields?name=polywork&format=circle&size=medium)](https://www.polywork.com/rodrigokamada)
+[![Google Developers](https://shields.braskam.com/v1/shields?name=google&format=circle&size=medium)](https://g.dev/rodrigokamada)
 [![Dribbble](https://shields.braskam.com/v1/shields?name=dribbble&format=circle&size=medium)](https://dribbble.com/rodrigokamada)
 [![Twitch](https://shields.braskam.com/v1/shields?name=twitch&format=circle&size=medium)](https://twitch.tv/rodrigokamada)
 [![Instagram](https://shields.braskam.com/v1/shields?name=instagram&format=circle&size=medium)](https://www.instagram.com/rodrigokamada)
@@ -76,14 +77,20 @@
 
 ### 📝 Latest Posts
 
-* [Authentication using the Auth0 to an Angular application](https://rodrigokamada.medium.com/authentication-using-the-auth0-to-an-angular-application-e9f0c3939bf2) ([in portuguese](https://rodrigo.kamada.com.br/blog/autenticacao-usando-o-auth0-em-uma-aplicacao-angular))
+* [Adding the map TomTom component to an Angular application](https://hackernoon.com/adding-the-map-tomtom-component-to-an-angular-application) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-mapa-tomtom-em-uma-aplicacao-angular))
+
+* [Adding form validation to an Angular application](https://rodrigokamada.medium.com/adding-form-validation-to-an-angular-application-9256ede9ecd3) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-validacao-no-formulario-em-uma-aplicacao-angular))
+
+* [Authentication using the Auth0 to an Angular application](https://rodrigokamada.substack.com/p/authentication-using-the-auth0-to) ([in portuguese](https://rodrigo.kamada.com.br/blog/autenticacao-usando-o-auth0-em-uma-aplicacao-angular))
+
+* [Authentication using the Supabase to an Angular application](https://dev.to/rodrigokamada/authentication-using-the-supabase-to-an-angular-application-2jek) ([in portuguese](https://rodrigo.kamada.com.br/blog/autenticacao-usando-o-auth0-em-uma-aplicacao-angular))
 
 * [Adding the Google reCAPTCHA v3 to an Angular application](https://rodrigokamada.hashnode.dev/adding-the-google-recaptcha-v3-to-an-angular-application) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-google-recaptcha-v3-em-uma-aplicacao-angular))
 
-* [Adding the loading component (spinner) to an Angular application](https://rodrigokamada.substack.com/p/adding-the-loading-component-spinner) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-carregamento-spinner-em-uma-aplicacao-angular))
+* [Adding the loading component (spinner) to an Angular application](https://hackernoon.com/adding-the-loading-component-ngx-spinner-to-an-angular-application) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-carregamento-spinner-em-uma-aplicacao-angular))
 
-* [Adding charts using the Highcharts library to an Angular application](https://dev.to/rodrigokamada/adding-charts-using-the-highcharts-library-to-an-angular-application-2bbl) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-graficos-usando-a-biblioteca-highcharts-em-uma-aplicacao-angular))
+* [Adding charts using the Highcharts library to an Angular application](https://rodrigokamada.medium.com/adding-charts-using-the-highcharts-library-to-an-angular-application-5b07912ddbc2) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-graficos-usando-a-biblioteca-highcharts-em-uma-aplicacao-angular))
 
-* [Hosting an Angular application on GitHub Pages using GitHub Actions](https://hackernoon.com/a-step-by-step-guide-to-hosting-angular-applications-on-github-pages-using-github-actions) ([in portuguese](https://rodrigo.kamada.com.br/blog/hospedando-uma-aplicacao-angular-no-github-pages-usando-o-github-actions))
+* [Hosting an Angular application on GitHub Pages using GitHub Actions](https://rodrigokamada.substack.com/p/hosting-an-angular-application-on) ([in portuguese](https://rodrigo.kamada.com.br/blog/hospedando-uma-aplicacao-angular-no-github-pages-usando-o-github-actions))
 
-* [Adding the log component to an Angular application](https://rodrigokamada.medium.com/adding-the-log-component-to-an-angular-application-9facb1799ac5) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-log-em-uma-aplicacao-angular))
+* [Adding the log component to an Angular application](https://dev.to/rodrigokamada/adding-the-log-component-to-an-angular-application-49f9) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-log-em-uma-aplicacao-angular))
