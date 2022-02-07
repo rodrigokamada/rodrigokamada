@@ -84,6 +84,14 @@
 
 ### 📝 Latest Posts
 
+* [How to build a weather chatbot in RCS channel using Node.js](https://rodrigokamada.medium.com/how-to-build-a-weather-chatbot-in-rcs-channel-using-node-js-6864b04864df) ([in portuguese](https://rodrigo.kamada.com.br/blog/como-construir-um-chatbot-de-previsao-do-tempo-no-canal-rcs-usando-nodejs))
+
+* [Hosting an Angular application on Amazon S3 using GitHub Actions](https://dev.to/rodrigokamada/hosting-an-angular-application-on-amazon-s3-using-github-actions-3h6g) ([in portuguese](https://rodrigo.kamada.com.br/blog/hospedando-uma-aplicacao-angular-no-amazon-s3-usando-o-github-actions))
+
+* [Authentication using the Amazon Cognito to an Angular application](https://rodrigokamada.substack.com/p/authentication-using-the-amazon-cognito) ([in portuguese](https://rodrigo.kamada.com.br/blog/autenticacao-usando-o-amazon-cognito-em-uma-aplicacao-angular))
+
+* [Adding the Progressive Web Application (PWA) to an Angular application](https://rodrigokamada.hashnode.dev/adding-the-progressive-web-application-pwa-to-an-angular-application) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-aplicativo-web-progressivo-pwa-em-uma-aplicacao-angular))
+
 * [Adding the map TomTom component to an Angular application](https://hackernoon.com/adding-the-map-tomtom-component-to-an-angular-application) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-mapa-tomtom-em-uma-aplicacao-angular))
 
 * [Adding form validation to an Angular application](https://rodrigokamada.medium.com/adding-form-validation-to-an-angular-application-9256ede9ecd3) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-validacao-no-formulario-em-uma-aplicacao-angular))
