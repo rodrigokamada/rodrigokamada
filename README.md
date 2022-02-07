@@ -12,6 +12,12 @@
 
 
 
+### ⭐ Acknowledgments
+
+* [![Auth0](https://res.cloudinary.com/rodrigokamada/image/upload/v1644161115/Ambassador/auth0_14x16.png)](https://auth0.com/ambassador-program) Auth0 Ambassador
+
+
+
 ### 🙌 Skills
 
 [![Linux](https://shields.braskam.com/v1/shields?name=linux&format=circle&size=medium)](https://kubernetes.io/)
