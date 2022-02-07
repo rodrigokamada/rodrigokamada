@@ -15,6 +15,7 @@
 ### ⭐ Acknowledgments
 
 * [![Auth0](https://res.cloudinary.com/rodrigokamada/image/upload/v1644161115/Ambassador/auth0_14x16.png)](https://auth0.com/ambassador-program) Auth0 Ambassador
+* [![SuperTokens](https://res.cloudinary.com/rodrigokamada/image/upload/v1644161115/Ambassador/supertokens_18x16.png)](https://supertokens.com/ambassadors) SuperTokens Ambassador
 
 
 
