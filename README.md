@@ -1,4 +1,4 @@
-## Hello everybody, I am Rodrigo Kamada! <img src="https://res.cloudinary.com/rodrigokamada/image/upload/v1634480368/Icons/hand_hello_flzzd0.gif" width="30px">
+## Hello everybody, I am Rodrigo Kamada! <img src="https://res.cloudinary.com/rodrigokamada/image/upload/v1634480368/Icons/hand_hello_flzzd0.gif" width="30">
 
 👨‍💻 I am software developer with experience in [Node.js](https://nodejs.org/) ([JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)/[TypeScript](https://www.typescriptlang.org/)), [Java](https://www.java.com/), [Angular](https://angular.io/), [Bootstrap](https://getbootstrap.com/), [Ionic](https://ionicframework.com/), [MongoDB](https://www.mongodb.com/), [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [Redis](https://redis.io/), [Kafka](https://kafka.apache.org/), [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/).
 
@@ -84,6 +84,8 @@
 
 ### 📝 Latest Posts
 
+* [What is the difference between encryption, hashing and salting?](https://rodrigokamada.medium.com/what-is-the-difference-between-encryption-hashing-and-salting-403039625057) ([in portuguese](https://rodrigo.kamada.com.br/blog/qual-e-a-diferenca-entre-criptografia-hashing-e-salting))
+
 * [How to build a weather chatbot in RCS channel using Node.js](https://rodrigokamada.medium.com/how-to-build-a-weather-chatbot-in-rcs-channel-using-node-js-6864b04864df) ([in portuguese](https://rodrigo.kamada.com.br/blog/como-construir-um-chatbot-de-previsao-do-tempo-no-canal-rcs-usando-nodejs))
 
 * [Hosting an Angular application on Amazon S3 using GitHub Actions](https://dev.to/rodrigokamada/hosting-an-angular-application-on-amazon-s3-using-github-actions-3h6g) ([in portuguese](https://rodrigo.kamada.com.br/blog/hospedando-uma-aplicacao-angular-no-amazon-s3-usando-o-github-actions))
@@ -101,11 +103,3 @@
 * [Authentication using the Supabase to an Angular application](https://dev.to/rodrigokamada/authentication-using-the-supabase-to-an-angular-application-2jek) ([in portuguese](https://rodrigo.kamada.com.br/blog/autenticacao-usando-o-auth0-em-uma-aplicacao-angular))
 
 * [Adding the Google reCAPTCHA v3 to an Angular application](https://rodrigokamada.hashnode.dev/adding-the-google-recaptcha-v3-to-an-angular-application) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-google-recaptcha-v3-em-uma-aplicacao-angular))
-
-* [Adding the loading component (spinner) to an Angular application](https://hackernoon.com/adding-the-loading-component-ngx-spinner-to-an-angular-application) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-carregamento-spinner-em-uma-aplicacao-angular))
-
-* [Adding charts using the Highcharts library to an Angular application](https://rodrigokamada.medium.com/adding-charts-using-the-highcharts-library-to-an-angular-application-5b07912ddbc2) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-graficos-usando-a-biblioteca-highcharts-em-uma-aplicacao-angular))
-
-* [Hosting an Angular application on GitHub Pages using GitHub Actions](https://rodrigokamada.substack.com/p/hosting-an-angular-application-on) ([in portuguese](https://rodrigo.kamada.com.br/blog/hospedando-uma-aplicacao-angular-no-github-pages-usando-o-github-actions))
-
-* [Adding the log component to an Angular application](https://dev.to/rodrigokamada/adding-the-log-component-to-an-angular-application-49f9) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-log-em-uma-aplicacao-angular))
