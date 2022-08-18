@@ -14,6 +14,7 @@
 
 ### ⭐ Acknowledgments
 
+* [![AWS Community Builder](https://res.cloudinary.com/rodrigokamada/image/upload/v1660749117/Ambassador/aws_23x14.png)](https://aws.amazon.com/developer/community/community-builders/) AWS Community Builder
 * [![Auth0](https://res.cloudinary.com/rodrigokamada/image/upload/v1644161115/Ambassador/auth0_14x16.png)](https://auth0.com/ambassador-program) Auth0 Ambassador
 * [![SuperTokens](https://res.cloudinary.com/rodrigokamada/image/upload/v1644161115/Ambassador/supertokens_18x16.png)](https://supertokens.com/ambassadors) SuperTokens Ambassador
 
