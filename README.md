@@ -85,6 +85,8 @@
 
 ### 📝 Latest Posts
 
+* [Adding the Material UI CSS framework to a React application](https://hackernoon.com/how-to-create-and-validate-a-reactive-form-in-an-angular-application) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-framework-de-css-material-ui-em-uma-aplicacao-react))
+
 * [What is the difference between encryption, hashing and salting?](https://rodrigokamada.medium.com/what-is-the-difference-between-encryption-hashing-and-salting-403039625057) ([in portuguese](https://rodrigo.kamada.com.br/blog/qual-e-a-diferenca-entre-criptografia-hashing-e-salting))
 
 * [How to build a weather chatbot in RCS channel using Node.js](https://rodrigokamada.medium.com/how-to-build-a-weather-chatbot-in-rcs-channel-using-node-js-6864b04864df) ([in portuguese](https://rodrigo.kamada.com.br/blog/como-construir-um-chatbot-de-previsao-do-tempo-no-canal-rcs-usando-nodejs))
