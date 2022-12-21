@@ -85,6 +85,8 @@
 
 ### 📝 Latest Posts
 
+* [Creating and validating a reactive form to an Angular application](https://rodrigokamada.substack.com/p/creating-and-validating-a-reactive) ([in portuguese](https://rodrigo.kamada.com.br/blog/criando-e-validando-um-formulario-reactive-em-uma-aplicacao-angular))
+
 * [Authentication using the Auth0 to a React application](https://rodrigokamada.hashnode.dev/authentication-using-the-auth0-to-a-react-application) ([in portuguese](https://rodrigo.kamada.com.br/blog/autenticacao-usando-o-auth0-em-uma-aplicacao-react))
 
 * [Adding the Material UI CSS framework to a React application](https://hackernoon.com/how-to-create-and-validate-a-reactive-form-in-an-angular-application) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-framework-de-css-material-ui-em-uma-aplicacao-react))
@@ -102,9 +104,3 @@
 * [Adding the map TomTom component to an Angular application](https://hackernoon.com/adding-the-map-tomtom-component-to-an-angular-application) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-mapa-tomtom-em-uma-aplicacao-angular))
 
 * [Adding form validation to an Angular application](https://rodrigokamada.medium.com/adding-form-validation-to-an-angular-application-9256ede9ecd3) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-validacao-no-formulario-em-uma-aplicacao-angular))
-
-* [Authentication using the Auth0 to an Angular application](https://rodrigokamada.substack.com/p/authentication-using-the-auth0-to) ([in portuguese](https://rodrigo.kamada.com.br/blog/autenticacao-usando-o-auth0-em-uma-aplicacao-angular))
-
-* [Authentication using the Supabase to an Angular application](https://dev.to/rodrigokamada/authentication-using-the-supabase-to-an-angular-application-2jek) ([in portuguese](https://rodrigo.kamada.com.br/blog/autenticacao-usando-o-auth0-em-uma-aplicacao-angular))
-
-* [Adding the Google reCAPTCHA v3 to an Angular application](https://rodrigokamada.hashnode.dev/adding-the-google-recaptcha-v3-to-an-angular-application) ([in portuguese](https://rodrigo.kamada.com.br/blog/adicionando-o-google-recaptcha-v3-em-uma-aplicacao-angular))
