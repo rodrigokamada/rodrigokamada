@@ -67,6 +67,7 @@
 [![Substack](https://shields.braskam.com/v1/shields?name=substack&format=circle&size=medium)](https://rodrigokamada.substack.com/)
 [![Polywork](https://shields.braskam.com/v1/shields?name=polywork&format=circle&size=medium)](https://www.polywork.com/rodrigokamada)
 [![Google Developers](https://shields.braskam.com/v1/shields?name=google&format=circle&size=medium)](https://g.dev/rodrigokamada)
+[![Speaker Deck](https://shields.braskam.com/v1/shields?name=speakerdeck&format=circle&size=medium)](https://speakerdeck.com/rodrigokamada)
 [![Dribbble](https://shields.braskam.com/v1/shields?name=dribbble&format=circle&size=medium)](https://dribbble.com/rodrigokamada)
 [![Twitch](https://shields.braskam.com/v1/shields?name=twitch&format=circle&size=medium)](https://twitch.tv/rodrigokamada)
 [![Instagram](https://shields.braskam.com/v1/shields?name=instagram&format=circle&size=medium)](https://www.instagram.com/rodrigokamada)
