@@ -8,7 +8,7 @@
 
 ☕ Coffee and 🍺 beer lover.
 
-🏠 Based in São Paulo, Brazil.
+🏠 Based in Sorocaba, Brazil.
 
 
 
